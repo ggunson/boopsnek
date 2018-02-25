@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ggunson/boopsnek/issues"
   },
-  "homepage": "https://github.com/ggunson/boopsnek#readme"
+  "homepage": "https://github.com/ggunson/boopsnek#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
